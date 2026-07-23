@@ -1,6 +1,8 @@
 # Keepo demo verify program
 ## “拜托了冰箱！”
-*本项目为SheNicest003 Shenzhen 参赛项目*
+*🏆 本项目为 SHENICEST0003 Shenzhen 黑客松参赛项目，并获得了 01 开发赛道三等奖！*
+
+*🏆 This project was developed for the SHENICEST0003 Shenzhen Hackathon and won 3rd Prize in the 01 Development Track!*
 
 <img width="1287" height="765" alt="image" src="https://github.com/user-attachments/assets/e5e1c346-5d44-401d-b7f2-6049b2b5cbcb" />
 
