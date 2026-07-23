@@ -6,10 +6,6 @@
 
 <img width="1287" height="765" alt="image" src="https://github.com/user-attachments/assets/e5e1c346-5d44-401d-b7f2-6049b2b5cbcb" />
 
-
-
-This is a demo project based on **M5Stack**, developed with **Arduino**.
-
 ## Overview
 
 This project is a smart fridge hardware demo designed to improve the fridge storage and ingredient management experience.
