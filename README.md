@@ -2,7 +2,8 @@
 ## “拜托了冰箱！”
 *本项目为SheNicest003 Shenzhen 参赛项目*
 
-<img width="852" height="507" alt="image" src="https://github.com/user-attachments/assets/dac3bffe-d9ca-40ef-89ca-74688ad9fed2" />
+<img width="1287" height="765" alt="image" src="https://github.com/user-attachments/assets/e5e1c346-5d44-401d-b7f2-6049b2b5cbcb" />
+
 
 
 This is a demo project based on **M5Stack**, developed with **Arduino**.
